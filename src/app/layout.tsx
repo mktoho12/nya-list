@@ -49,7 +49,7 @@ export const metadata = {
     card: 'summary_large_image',
     title,
     description,
-    images: [`${url}/zen-channels-ogp.png`],
+    images: [`${url}/og.png`],
     creator: '@mktoho12',
   },
   manifest: '/site.webmanifest',
